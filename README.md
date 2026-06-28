@@ -100,7 +100,7 @@ These visuals help identify which borrower groups require additional attention d
 
 ## Executive Overview
 
-![Executive Overview](images/Executive Overview_dashboard_image.png).
+![Executive Overview](images/Executive_Overview_dashboard_image.png).
 
 ---
 
